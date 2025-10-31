@@ -5,7 +5,7 @@
 
 ---
 
-W 🔍 **Project Highlights:**
+# 🔍 **Project Highlights:**
 
 ⚙️ Designed and trained a **Sequential ANN model** using **TensorFlow** and **Keras**.
 🧠 Implemented **data preprocessing**, **feature scaling**, and **encoding** for model optimization.
