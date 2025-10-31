@@ -6,6 +6,7 @@
 ---
 
 🔍 **Project Highlights:**
+
 ⚙️ Designed and trained a **Sequential ANN model** using **TensorFlow** and **Keras**.
 🧠 Implemented **data preprocessing**, **feature scaling**, and **encoding** for model optimization.
 🧩 Added multiple hidden layers with **ReLU** activation and a **sigmoid** output layer for binary prediction.
@@ -15,6 +16,7 @@
 ---
 
 💡 **Key Insights:**
+
 The model provides valuable predictions to help companies:
 ✅ Identify at-risk customers early
 ✅ Improve retention strategies
