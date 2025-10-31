@@ -2,12 +2,16 @@
 
 🚀 **Thrilled to share my latest Deep Learning project**, where I built an **Artificial Neural Network (ANN)** model to predict **customer churn** — identifying customers likely to discontinue telecom services based on historical data! 📊
 
+---
+
 🔍 **Project Highlights:**
 ⚙️ Designed and trained a **Sequential ANN model** using **TensorFlow** and **Keras**.
 🧠 Implemented **data preprocessing**, **feature scaling**, and **encoding** for model optimization.
 🧩 Added multiple hidden layers with **ReLU** activation and a **sigmoid** output layer for binary prediction.
 📈 Achieved high accuracy by tuning parameters and evaluating performance with a **Confusion Matrix** and **Accuracy Score**.
 💻 Tools Used: **Python 🐍 | TensorFlow 🔢 | Keras 🧠 | Pandas 🧾 | NumPy 🔢 | Matplotlib 📊 | Scikit-learn ⚙️**
+
+---
 
 💡 **Key Insights:**
 The model provides valuable predictions to help companies:
